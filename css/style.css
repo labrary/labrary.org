@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+}
+
+#container {
+	text-align: left;
+	width: 400px;
+	margin: 20px auto 0 auto;
+}
+
+#container h1 {
+	margin: 0 0 10px 0;
+	padding: 0;
+	font-family: "Gentium Book Basic", Arial, "MS Trebuchet", sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+}
