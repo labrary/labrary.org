@@ -8,7 +8,7 @@
     $repository = 'git@github.com:labrary/labrary.org.git';
     $branch     = 'master';
 
-    $root_directory    = '/srv/labrary.org';
+    $root_directory    = '/var/www/labrary.org/www';
     $release_directory = $root_directory . '/' . $release;
     $current_directory = $root_directory . '/current';
 
